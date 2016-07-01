@@ -1,0 +1,12 @@
+C:\Users\gustavo.souza\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\gustavo.souza\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\gustavo.souza\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\gustavo.souza\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.souza\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\gustavo.souza\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\rafael.bretas\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\rafael.bretas\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\rafael.bretas\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\rafael.bretas\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\rafael.bretas\Downloads\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\rafael.bretas\Downloads\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
